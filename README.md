@@ -1,2 +1,2 @@
-# pcrsamlerobot
+# pcrsamplerobot
 PCR SAMPLE ROBOT 
